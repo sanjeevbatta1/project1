@@ -1,0 +1,41 @@
+Jenkins 2.138.1 (https://jenkins.io/download/) 
+JDK 1.8 (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+ANT 1.10.5 (https://www.apache.org/dist/ant/binaries/apache-ant-1.10.5-bin.zip) 
+GIT 2.19-x-xx (https://git-scm.com/download/win)
+Tortoise GIT 2.7.x (https://tortoisegit.org/download/) 
+Puttygen - https://softfamous.com/puttygen/ 
+Putty - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+WinSCP (https://winscp.net/eng/download.php) 
+Eclipse – (https://www.eclipse.org/downloads/) (Oxygen or any other version)
+Notepad ++ and – (https://notepad-plus-plus.org/download/v7.5.8.html) 
+AWS Components
+
+----------------------------------------------------------------------------------------------------------------------
+
+jenkins: sanjeev/Balaji123
+
+github: sanjeevbatta1 (Balajisai123)
+
+
+edit the system  environmental veriables: from the searrch then advanced tab then environmental veraibles then system veriables 
+
+                                           add new ANT_HOME,GIT_HOME,JAVA_HOME  Then provide the path
+
+
+Environmental veriables: (give the path before the bin, path of the file location)
+
+
+ANT_HOME:  C:\AWS_SW_DOWNLOADS\apache-ant-1.10.5-bin\apache-ant-1.10.5
+GIT_HOME:  C:\Program Files\Git
+JAVA_HOME: C:\Program Files\Java\jdk1.8.0_181
+
+
+note: added the path for system variables then 
+
+-------------------------------------------------------- HITHUB AND CLONE REPOSITORY-------------------------------
+
+1.Create a aproject and create repository in github.com   then clone the file path then goto below desktop step
+
+2.then goto your folder location (2files are allready there) build.properties and build.xml files move into project location 
+(project is created when we clone into desktop folder location)
+
